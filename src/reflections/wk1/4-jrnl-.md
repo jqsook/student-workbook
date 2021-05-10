@@ -16,3 +16,5 @@ I would be on the fence- I feel its an industry standard, but at the same time f
 
 GITHUB - Group project- this needs updated before submission
 https://github.com/jqsook/05-groupproject
+
+<!-- Sent a note about this project- I cant change the time stamp for submission -->

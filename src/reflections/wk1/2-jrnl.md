@@ -14,4 +14,6 @@ Functionality is fine, but it seems that without a UI that is welcoming the user
 GITHUB - Hey there I have a cool site project
 Day2 lecture in the intro-to-codeworks section
 
+<!-- This is a dumpster fire- I was really struggling at the start -->
+
 https://github.com/jqsook/intro-to-codeworks/blob/main/Day2/index.html
