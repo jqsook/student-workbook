@@ -14,4 +14,5 @@ High-fidelity frames: Very specific layout details that are much closer to the f
 
 I would be on the fence- I feel its an industry standard, but at the same time functonality can be created in Power Point. Power point has a greater field of scope including presentations, videos, and is a very powerful tool when learned. It is also an industry standard though not as fancy as figma or other "developer" tools its functionality is like a hammer. Its a key tool in any tool box that is not hard to learn.
 
-GITHUB
+GITHUB - Group project- this needs updated before submission
+https://github.com/jqsook/05-groupproject

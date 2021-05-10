@@ -11,3 +11,4 @@ Multiple teams working on the same porject with a master that can be referenced.
 Git is the file and git hub is storage for the files.
 
 GITHUB LINK
+DY- getting the computer setup
