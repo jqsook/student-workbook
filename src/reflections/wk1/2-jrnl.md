@@ -10,3 +10,5 @@ After that I would probably see what the mainstream UI's look like to decide if 
 # 3. How do you think good design influences people when visiting a website and what sorts of things could you convey through design alone?
 
 Functionality is fine, but it seems that without a UI that is welcoming the user wont be engaged enough to want to use it. Its kind of like video game graphics- yeah I can play a sega, but I want to use the PS5 for its graphics. The visual impact alone is worth it.
+
+GITHUB

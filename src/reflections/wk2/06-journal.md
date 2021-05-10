@@ -11,5 +11,4 @@ Hoisting- A languages behavior for moving a declaration () to the top of the cod
 let and var are redifinable
 const is a fixed value so once you set it, to change it, you will have to find the origianal decleration.
 
------Vocabulary-------
-I should ask about this- do you want us to write out the terms and definitions? It says to do the vocabulary, but what do I do with it?
+GITHUB LINKS
