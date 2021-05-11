@@ -12,3 +12,4 @@ let and var are redifinable
 const is a fixed value so once you set it, to change it, you will have to find the origianal decleration.
 
 GITHUB LINKS
+https://github.com/jqsook/js-tests-basics
