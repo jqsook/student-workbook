@@ -12,4 +12,8 @@ Parameter is a variable used inside the function and an argument is the return o
 
 Higher order functions- functions that either take in other functions to process or output other functions. A function that takes or makes other functions.
 
+Read this chapter
+JS > JavaScript Functions
+
 GITHUB LINK
+https://github.com/jqsook/js-tests-basics
