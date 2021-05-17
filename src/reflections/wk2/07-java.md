@@ -15,5 +15,5 @@ Higher order functions- functions that either take in other functions to process
 Read this chapter
 JS > JavaScript Functions
 
-GITHUB MORNING CHALLENGE
+GITHUB AFTERNOON CHALLENGE
 https://github.com/jqsook/intro-to-codeworks/commit/37f295232e61c077b003e105ff3b017a7d2da0f5
